@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://mini-tools.me/calendar2019</loc> </url>
+<url> <loc>https://mini-tools.me/Calendar2019</loc> </url>
 <url> <loc>https://mini-tools.me/text/symbol</loc> </url>
-<url> <loc>https://mini-tools.me/weight_control/bmr</loc> </url>
-<url> <loc>https://mini-tools.me/random/randomNum</loc> </url>
+<url> <loc>https://mini-tools.me/weight_control/BMR</loc> </url>
+<url> <loc>https://mini-tools.me/random/RandomNum</loc> </url>
 <url> <loc>https://mini-tools.me/normal/text_length</loc> </url>
-<url> <loc>https://mini-tools.me/invest/irr</loc> </url>
+<url> <loc>https://mini-tools.me/invest/IRR</loc> </url>
 <url> <loc>https://mini-tools.me/conversion/temperature</loc> </url>
 <url> <loc>https://mini-tools.me/normal/qrcode_generator</loc> </url>
-<url> <loc>https://mini-tools.me/random/random</loc> </url>
-<url> <loc>https://mini-tools.me/text/emoji</loc> </url>
-<url> <loc>https://mini-tools.me/weight_control/bmi</loc> </url>
+<url> <loc>https://mini-tools.me/random/Random</loc> </url>
+<url> <loc>https://mini-tools.me/text/Emoji</loc> </url>
+<url> <loc>https://mini-tools.me/weight_control/BMI</loc> </url>
 <url> <loc>https://mini-tools.me/</loc> </url>
 </urlset>
